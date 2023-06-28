@@ -1,6 +1,6 @@
 yfinance>=0.1.62
 pandas
-numpy>=1.16.5
+numpy>=1.22.2
 tqdm
 yahoo-finance
 requests
